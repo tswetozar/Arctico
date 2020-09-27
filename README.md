@@ -1,10 +1,7 @@
 # Arctico
-min - max temperature extracting string for a Arctico freezer payload
+min - max temperature extracting script for a Arctico freezer payload
 
-# This script extracts the min-max temperature pair for a 24 hour period of given time interval from the export log of
-# a 'ARCTIKO ULUF 65®' freezer ( https://www.arctiko.com/products/86-c-ultra-low-temperature-freezers/uluf-65/ ).
-# It's writen on the fly, and it's not refactored properly neither is intended ot be used efficiently, but got the job
-# done for me multiple times, so I thought of sharing it. To use it please follow the these:
+# This script extracts the min-max temperature pair for a 24 hour period of given time interval from the export log of a 'ARCTIKO ULUF 65®' freezer ( https://www.arctiko.com/products/86-c-ultra-low-temperature-freezers/uluf-65/ ). It's writen on the fly, and it's not refactored properly neither is intended ot be used efficiently, but got the job done for me multiple times, so I thought of sharing it. To use it please follow the these:
 
 1. clone it in it's own directory
 2. have the export from the freezer on a tumb drive
